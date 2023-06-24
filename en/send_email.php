@@ -1,7 +1,7 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $to = "annead-osp@proton.me";
-  $subject = "Contact Form Submission";
+  $subject = "Annead Contact Form";
 
   $name = $_POST["name"];
   $email = $_POST["email"];
