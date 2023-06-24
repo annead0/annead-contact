@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+body{
+  font-family:'Geologica',sans-serif;
+  background-color:#75be92;
+  color:white;
+}
+.central{
+  background-color:aquamarine;
+  box-shadow:15px 1px 2px;
+  font-family:'Inter',sans-serif;
+}
+button{
+  font-family:'Inter',sans-serif;
+  background-color:goldenrod;
+  border-radius:1em;
+  border:1px solid yellowgreen;
+}
+textarea,input{
+  border-radius:1em;
+  border:2px solid yellowgreen;
+}
